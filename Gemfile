@@ -9,7 +9,7 @@ gem 'rails', '~> 4.2.0'
 
 gem 'ey_config'
 gem 'rails_autolink'
-gem 'simple_form', :git =>'git://github.com:heartcombo/simple_form.git'
+gem 'simple_form', :git =>'git://github.com/heartcombo/simple_form.git'
 
 gem 'nokogiri', '~> 1.6.0'
 gem 'rake', '~> 10.4'
